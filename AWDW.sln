@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AWDW", "AWDW\AWDW.sqlproj", "{369B6642-9D7A-48E5-9B12-F7E2290E157C}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Staging", "Staging\Staging.sqlproj", "{8A405B55-DA90-43D4-B4E7-470F8D95DA76}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Control", "Control\Control.sqlproj", "{993718D8-1CD9-45B6-B804-F57165D68CA1}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ControlPanel", "Control\ControlPanel.sqlproj", "{993718D8-1CD9-45B6-B804-F57165D68CA1}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ServerObjects", "ServerObjects\ServerObjects.sqlproj", "{C0A9D2F2-34ED-41A3-9FE9-3BDEB204DC50}"
 EndProject
@@ -68,32 +68,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 8
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://binaryrex.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = AWDW\\AWDW.sqlproj
-		SccProjectName1 = AWDW
-		SccLocalPath1 = AWDW
-		SccProjectUniqueName2 = Control\\Control.sqlproj
-		SccProjectName2 = Control
-		SccLocalPath2 = Control
-		SccProjectUniqueName3 = ODS\\ODS.sqlproj
-		SccProjectName3 = ODS
-		SccLocalPath3 = ODS
-		SccProjectUniqueName4 = Staging\\Staging.sqlproj
-		SccProjectName4 = Staging
-		SccLocalPath4 = Staging
-		SccProjectUniqueName5 = Transform\\Transform.sqlproj
-		SccProjectName5 = Transform
-		SccLocalPath5 = Transform
-		SccProjectUniqueName6 = ServerObjects\\ServerObjects.sqlproj
-		SccProjectName6 = ServerObjects
-		SccLocalPath6 = ServerObjects
-		SccProjectUniqueName7 = UserLogs\\UserLogs.sqlproj
-		SccProjectName7 = UserLogs
-		SccLocalPath7 = UserLogs
 	EndGlobalSection
 EndGlobal
